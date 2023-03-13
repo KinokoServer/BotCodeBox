@@ -7,3 +7,6 @@ List of unwanted code to be written. Please provide the name of the servername i
 
 [`OfflineUserKicked.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/OfflineUserKicked.js)
 + Discord.js v13 - オフラインステータスになった人からKickする。
+
+[`chatgpt.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/chatgpt.js)
++ Discord.js v13,openai - ChatGPTとお話しする。
