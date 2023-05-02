@@ -3,10 +3,10 @@ List of unwanted code to be written. Please provide the name of the servername i
 
 ## CodeList
 [`RolePanel.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/rolepanel.js)
-+ Discord.js v12 - 役職パネルを作成する。
++ Discord.js v12 - 役職パネルを作成する。 (検証済み)
 
 [`OfflineUserKicked.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/OfflineUserKicked.js)
-+ Discord.js v13 - オフラインステータスになった人からKickする。
++ Discord.js v13 - オフラインステータスになった人からKickする。 (検証済み)
 
 [`chatgpt.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/chatgpt.js)
 + Discord.js v13 / OpenAI - ChatGPTとお話しする。
