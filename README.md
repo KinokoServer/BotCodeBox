@@ -12,4 +12,7 @@ List of unwanted code to be written. Please provide the name of the servername i
 + Discord.js v13 / OpenAI - ChatGPTとお話しする。
 
 [`introduction_role.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/introduction_role.js)
-+ Discord.js v13 / 自己紹介したときに指定した役職を付与する。
++ Discord.js v13 / 自己紹介したときに指定した役職を付与する。 (検証済み)
+
+[`Aichi_Weather.js`](https://github.com/KinokoServer/BotCodeBox/blob/main/Aichi_Weather.js)
++ Discord.js v13 / 愛知県の天気予報を表示するコマンド。
